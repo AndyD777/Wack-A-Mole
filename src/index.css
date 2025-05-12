@@ -1,6 +1,9 @@
 
 .hole {
   background: url("/hole.png") no-repeat center/contain;
+  width: 100px;
+  height: 100px;
+
 }
 
 .mole {
